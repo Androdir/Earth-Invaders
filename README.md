@@ -1,2 +1,2 @@
 # Earth Invaders
- A game made for a school project.
+ A poorly made game made for a school project.
